@@ -1,1 +1,1 @@
-# activitie_laiza
+Alaiza Mae Acosta Malayas BSIT 2-1 Yes it is useful and vital tool for small single-developers projects to the largest software projects. GIT is used for source code management, It is a free and open-source version control system used to handle small to very large projects efficiently.
